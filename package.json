@@ -1,6 +1,6 @@
 {
-  "name": "smoothy-video",
-  "version": "1.0.4",
+  "name": "smoothy-react",
+  "version": "1.0.0",
   "description": "Help to play videos with scrool for excellent view",
   "main": "index.js",
   "scripts": {
