@@ -32,7 +32,7 @@ Ideal for creating interactive landing pages, portfolios, or storytelling experi
 
 ## 📦 Installation
 
-Install via npm or yarn:
+Install via npm:
 
 ```bash
 npm install smoothy-react
